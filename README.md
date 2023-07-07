@@ -1,4 +1,4 @@
-# CSV2MongoDBAPI 🌱
+# CSV2MongoAPI 🌱
 
 ### Project Description
 
