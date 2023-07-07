@@ -20,8 +20,8 @@ The project includes a REST API that allows users to interact with the data stor
 
 - Programming Language: Go
 - Database: MongoDB
-- Frameworks/Libraries: Mongo Go Driver
-- Additional Tools/Libraries: CSV package
+- Frameworks/Libraries: [Mongo Go Driver](https://www.mongodb.com/docs/drivers/go/current/)
+- Additional Tools/Libraries: [CSV package](https://pkg.go.dev/encoding/csv)
 
 #### Getting Started
 
@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
  ```
     go run . 
  ```
- and also don't forget to install mongodb.
+ And also don't forget to install mongodb.
 
 #### Contact
 
