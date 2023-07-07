@@ -26,9 +26,9 @@ The project includes a REST API that allows users to interact with the data stor
 #### Getting Started
 
 To get started with this project, follow these steps:
- '''
+ ```
     go run . 
- '''
+ ```
  and also don't forget to install mongodb.
 
 #### Contact
