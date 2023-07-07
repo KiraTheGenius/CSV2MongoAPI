@@ -6,7 +6,7 @@ This project focuses on extracting data from CSV files concurrently and storing 
 
 ### Features
 
-Concurrent CSV Data Extraction: The project utilizes concurrent processing to extract data from CSV files. This approach enhances performance by leveraging parallelism.
+**Concurrent CSV Data Extraction:** The project utilizes concurrent processing to extract data from CSV files. This approach enhances performance by leveraging parallelism.
 
 ### MongoDB Integration:
 
@@ -14,7 +14,7 @@ The extracted data is stored in MongoDB, a popular NoSQL database. MongoDB offer
 
 ### REST API:
 
-The project includes a REST API that allows users to interact with the data stored in MongoDB. Users can perform various operations such as querying, filtering, sorting, and retrieving specific data through intuitive HTTP endpoints.
+The project includes a REST API that allows users to interact with the data stored in MongoDB. Users can perform various operations such as create, updare, remove, and retrieving specific data through intuitive HTTP endpoints.
 
 ### Technologies Used
 
